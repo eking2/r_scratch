@@ -1,0 +1,1645 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2020-10-07" version="157">
+<accession>P00183</accession>
+<name>CPXA_PSEPU</name>
+<protein>
+<recommendedName>
+<fullName>Camphor 5-monooxygenase</fullName>
+<ecNumber>1.14.15.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Cytochrome P450-cam</fullName>
+<shortName>Cytochrome P450cam</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">camC</name>
+<name type="synonym">cyp101</name>
+</gene>
+<organism>
+<name type="scientific">Pseudomonas putida</name>
+<name type="synonym">Arthrobacter siderocapsulatus</name>
+<dbReference type="NCBI Taxonomy" id="303"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Pseudomonadales</taxon>
+<taxon>Pseudomonadaceae</taxon>
+<taxon>Pseudomonas</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="1158" last="1163">
+<title>Nucleotide sequence of the Pseudomonas putida cytochrome P-450cam gene and its expression in Escherichia coli.</title>
+<authorList>
+<person name="Unger B.P."/>
+<person name="Gunsalus I.C."/>
+<person name="Sligar S.G."/>
+</authorList>
+<dbReference type="PubMed" id="3003058"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>G1 / ATCC 17453</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1989" name="J. Biochem." volume="106" first="831" last="836">
+<title>Cloning and nucleotide sequences of NADH-putidaredoxin reductase gene (camA) and putidaredoxin gene (camB) involved in cytochrome P-450cam hydroxylase of Pseudomonas putida.</title>
+<authorList>
+<person name="Koga H."/>
+<person name="Yamaguchi E."/>
+<person name="Matsunaga K."/>
+<person name="Aramaki H."/>
+<person name="Horiuchi T."/>
+</authorList>
+<dbReference type="PubMed" id="2613690"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a122939"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 386-415</scope>
+<source>
+<strain>G1 / ATCC 17453</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1982" name="J. Biol. Chem." volume="257" first="12664" last="12671">
+<title>Amino acid sequence of the Pseudomonas putida cytochrome P-450. II. Cyanogen bromide peptides, acid cleavage peptides, and the complete sequence.</title>
+<authorList>
+<person name="Haniu M."/>
+<person name="Armes L.G."/>
+<person name="Yasunobu K.T."/>
+<person name="Shastry B.A."/>
+<person name="Gunsalus I.C."/>
+</authorList>
+<dbReference type="PubMed" id="7130171"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-415</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1987" name="Arch. Biochem. Biophys." volume="253" first="100" last="107">
+<title>P-450 binding to substrates camphor and linalool versus pressure.</title>
+<authorList>
+<person name="Marden M.C."/>
+<person name="Hui Bon Hoa G."/>
+</authorList>
+<dbReference type="PubMed" id="3813557"/>
+<dbReference type="DOI" id="10.1016/0003-9861(87)90642-4"/>
+</citation>
+<scope>ABSORPTION SPECTROSCOPY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1987" name="Studia Biophys." volume="120" first="241" last="251">
+<title>Dynamic behavior of the active site structure in bacterial cytochrome P-450.</title>
+<authorList>
+<person name="Jung C."/>
+<person name="Marlow F."/>
+</authorList>
+</citation>
+<scope>FOURIER-TRANSFORM INFRARED SPECTROSCOPY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1989" name="Biochemistry" volume="28" first="651" last="656">
+<title>Conformational changes of cytochromes P-450cam and P-450lin induced by high pressure.</title>
+<authorList>
+<person name="Hui Bon Hoa G."/>
+<person name="Di Primo C."/>
+<person name="Dondaine I."/>
+<person name="Sligar S.G."/>
+<person name="Gunsalus I.C."/>
+<person name="Douzou P."/>
+</authorList>
+<dbReference type="PubMed" id="2578028"/>
+<dbReference type="DOI" id="10.1021/bi00428a035"/>
+</citation>
+<scope>ABSORPTION SPECTROSCOPY</scope>
+<scope>FLUORESCENCE SPECTROSCOPY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1992" name="Biochim. Biophys. Acta" volume="1100" first="171" last="176">
+<title>Multichannel circular dichroism investigations of the structural stability of bacterial cytochrome P-450.</title>
+<authorList>
+<person name="Nolting B."/>
+<person name="Jung C."/>
+<person name="Snatzke G."/>
+</authorList>
+<dbReference type="PubMed" id="1610873"/>
+<dbReference type="DOI" id="10.1016/0005-2728(92)90078-g"/>
+</citation>
+<scope>CIRCULAR DICHROISM ANALYSIS</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="J. Inorg. Biochem." volume="91" first="597" last="606">
+<title>Specific and non-specific effects of potassium cations on substrate-protein interactions in cytochromes P450cam and P450lin.</title>
+<authorList>
+<person name="Deprez E."/>
+<person name="Gill E."/>
+<person name="Helms V."/>
+<person name="Wade R."/>
+<person name="Hui Bon Hoa G."/>
+</authorList>
+<dbReference type="PubMed" id="12237225"/>
+<dbReference type="DOI" id="10.1016/s0162-0134(02)00467-1"/>
+</citation>
+<scope>SUBSTRATE-PROTEIN INTERACTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="16122" last="16130">
+<title>The 2.6-A crystal structure of Pseudomonas putida cytochrome P-450.</title>
+<authorList>
+<person name="Poulos T.L."/>
+<person name="Finzel B.C."/>
+<person name="Gunsalus I.C."/>
+<person name="Wagner G.C."/>
+<person name="Kraut J."/>
+</authorList>
+<dbReference type="PubMed" id="4066706"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="415" first="253" last="257">
+<title>Crystal structure of cytochrome P-450cam complexed with the (1S)-camphor enantiomer.</title>
+<authorList>
+<person name="Schlichting I."/>
+<person name="Jung C."/>
+<person name="Schulze H."/>
+</authorList>
+<dbReference type="PubMed" id="9357977"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(97)01135-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="J. Am. Chem. Soc." volume="120" first="46" last="52">
+<title>Covalent attachment of an electroactive sulfydryl reagent in the active site of cytochrome P450cam as revealed by the crystal structure of the modified protein.</title>
+<authorList>
+<person name="Di Gleria K."/>
+<person name="Nickerson D.P."/>
+<person name="Hill H.A.O."/>
+<person name="Wong L.-L."/>
+<person name="Fueloep V."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS)</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="9211" last="9219">
+<title>Understanding the role of the essential Asp251 in cytochrome p450cam using site-directed mutagenesis, crystallography, and kinetic solvent isotope effect.</title>
+<authorList>
+<person name="Vidakovic M."/>
+<person name="Sligar S.G."/>
+<person name="Li H."/>
+<person name="Poulos T.L."/>
+</authorList>
+<dbReference type="PubMed" id="9649301"/>
+<dbReference type="DOI" id="10.1021/bi980189f"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="12987" last="12990">
+<title>Optical detection of cytochrome P450 by sensitizer-linked substrates.</title>
+<authorList>
+<person name="Dmochowski I.J."/>
+<person name="Crane B.R."/>
+<person name="Wilker J.J."/>
+<person name="Winkler J.R."/>
+<person name="Gray H.B."/>
+</authorList>
+<dbReference type="PubMed" id="10557259"/>
+<dbReference type="DOI" id="10.1073/pnas.96.23.12987"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS)</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2000" name="Science" volume="287" first="1615" last="1622">
+<title>The catalytic pathway of cytochrome p450cam at atomic resolution.</title>
+<authorList>
+<person name="Schlichting I."/>
+<person name="Berendzen J."/>
+<person name="Chu K."/>
+<person name="Stock A.M."/>
+<person name="Maves S.A."/>
+<person name="Benson D.E."/>
+<person name="Sweet R.M."/>
+<person name="Ringe D."/>
+<person name="Petsko G.A."/>
+<person name="Sligar S.G."/>
+</authorList>
+<dbReference type="PubMed" id="10698731"/>
+<dbReference type="DOI" id="10.1126/science.287.5458.1615"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2000" name="J. Biochem." volume="128" first="965" last="974">
+<title>X-ray crystal structure and catalytic properties of Thr252Ile mutant of cytochrome P450cam: roles of Thr252 and water in the active center.</title>
+<authorList>
+<person name="Hishiki T."/>
+<person name="Shimada H."/>
+<person name="Nagano S."/>
+<person name="Egawa T."/>
+<person name="Kanamori Y."/>
+<person name="Makino R."/>
+<person name="Park S.-Y."/>
+<person name="Adachi S."/>
+<person name="Shiro Y."/>
+<person name="Ishimura Y."/>
+</authorList>
+<dbReference type="PubMed" id="11098139"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a022848"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.03 ANGSTROMS)</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="2669" last="2677">
+<title>Structural characterization of n-butyl-isocyanide complexes of cytochromes P450nor and P450cam.</title>
+<authorList>
+<person name="Lee D.-S."/>
+<person name="Park S.-Y."/>
+<person name="Yamane K."/>
+<person name="Obayashi E."/>
+<person name="Hori H."/>
+<person name="Shiro Y."/>
+</authorList>
+<dbReference type="PubMed" id="11258878"/>
+<dbReference type="DOI" id="10.1021/bi002225s"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS)</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="12420" last="12425">
+<title>Probing the open state of cytochrome P450cam with ruthenium-linker substrates.</title>
+<authorList>
+<person name="Dunn A.R."/>
+<person name="Dmochowski I.J."/>
+<person name="Bilwes A.M."/>
+<person name="Gray H.B."/>
+<person name="Crane B.R."/>
+</authorList>
+<dbReference type="PubMed" id="11606730"/>
+<dbReference type="DOI" id="10.1073/pnas.221297998"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS)</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2003" name="Arch. Biochem. Biophys." volume="409" first="25" last="31">
+<title>Crystal structures of cyanide complexes of P450cam and the oxygenase domain of inducible nitric oxide synthase -- structural models of the short-lived oxygen complexes.</title>
+<authorList>
+<person name="Fedorov R."/>
+<person name="Ghosh D.K."/>
+<person name="Schlichting I."/>
+</authorList>
+<dbReference type="PubMed" id="12464241"/>
+<dbReference type="DOI" id="10.1016/s0003-9861(02)00555-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="414" first="203" last="208">
+<title>1H-NMR study of diamagnetic cytochrome P450cam: assignment of heme resonances and substrate dependance of one cysteinate beta proton.</title>
+<authorList>
+<person name="Mouro C."/>
+<person name="Bondon A."/>
+<person name="Simmoneaux G."/>
+<person name="Jung C."/>
+</authorList>
+<dbReference type="PubMed" id="9315686"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(97)00995-2"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+</reference>
+<comment type="function">
+<text>Involved in a camphor oxidation system.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>(1R,4R)-camphor + 2 H(+) + O2 + 2 reduced [2Fe-2S]-[putidaredoxin] = (1R,4R,5R)-5-hydroxycamphor + H2O + 2 oxidized [2Fe-2S]-[putidaredoxin]</text>
+<dbReference type="Rhea" id="RHEA:13525"/>
+<dbReference type="Rhea" id="RHEA-COMP:14157"/>
+<dbReference type="Rhea" id="RHEA-COMP:14158"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:15396"/>
+<dbReference type="ChEBI" id="CHEBI:15398"/>
+<dbReference type="ChEBI" id="CHEBI:33737"/>
+<dbReference type="ChEBI" id="CHEBI:33738"/>
+<dbReference type="EC" id="1.14.15.1"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>heme</name>
+<dbReference type="ChEBI" id="CHEBI:30413"/>
+</cofactor>
+</comment>
+<comment type="pathway">
+<text>Terpene metabolism; (R)-camphor degradation.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15706256">
+<id>P00183</id>
+</interactant>
+<interactant intactId="EBI-15706395">
+<id>P00259</id>
+<label>camB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="8">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the cytochrome P450 family.</text>
+</comment>
+<dbReference type="EC" id="1.14.15.1"/>
+<dbReference type="EMBL" id="M12546">
+<property type="protein sequence ID" value="AAA25760.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D00528">
+<property type="protein sequence ID" value="BAA00412.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A25660">
+<property type="entry name" value="O4PSCP"/>
+</dbReference>
+<dbReference type="PDB" id="1AKD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1C8J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1DZ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1DZ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1DZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1DZ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1GEB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1GEK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1GEM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1GJM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1IWI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1IWJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1IWK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1J51">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1K2O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1LWL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1MPW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.34"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1NOO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1O76">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1P2Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1P7R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1PHG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1QMQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1RE9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1RF9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="1T85">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1T86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1T87">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1T88">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1UYU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1YRC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="1YRD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2A1M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2A1N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2A1O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2FE6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2FER">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="2FEU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="2FRZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2GQX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="2GR6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="2H7Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2H7R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2H7S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/C=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="2L8M">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2LQD">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3-415"/>
+</dbReference>
+<dbReference type="PDB" id="2M56">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=12-415"/>
+</dbReference>
+<dbReference type="PDB" id="2QBL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2QBM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2QBN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2QBO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2Z97">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZAX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZUH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZUI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZUJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZWT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="2ZWU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3FWF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A/B=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="3FWG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="3FWI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="3FWJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=11-415"/>
+</dbReference>
+<dbReference type="PDB" id="3L61">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3L62">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3L63">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3OIA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3OL5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3P6X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3W9C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.62"/>
+<property type="chains" value="A/E=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/E=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61"/>
+<property type="chains" value="A/D=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/E=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="3WRM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/F=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="4CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="4EK1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="4G3R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="4JWS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4JWU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4JX1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A/B/E/F=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4KKY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="X=2-414"/>
+</dbReference>
+<dbReference type="PDB" id="4L49">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.13"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.26"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.29"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="4L4G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="5CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="5CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.08"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="5GXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="5IK1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A=10-415"/>
+</dbReference>
+<dbReference type="PDB" id="5WK7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="5WK9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="6CP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="6CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="6NBL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="6WE6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.16"/>
+<property type="chains" value="A/B=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="6WFL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-415"/>
+</dbReference>
+<dbReference type="PDB" id="7CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDB" id="8CPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-415"/>
+</dbReference>
+<dbReference type="PDBsum" id="1AKD"/>
+<dbReference type="PDBsum" id="1C8J"/>
+<dbReference type="PDBsum" id="1CP4"/>
+<dbReference type="PDBsum" id="1DZ4"/>
+<dbReference type="PDBsum" id="1DZ6"/>
+<dbReference type="PDBsum" id="1DZ8"/>
+<dbReference type="PDBsum" id="1DZ9"/>
+<dbReference type="PDBsum" id="1GEB"/>
+<dbReference type="PDBsum" id="1GEK"/>
+<dbReference type="PDBsum" id="1GEM"/>
+<dbReference type="PDBsum" id="1GJM"/>
+<dbReference type="PDBsum" id="1IWI"/>
+<dbReference type="PDBsum" id="1IWJ"/>
+<dbReference type="PDBsum" id="1IWK"/>
+<dbReference type="PDBsum" id="1J51"/>
+<dbReference type="PDBsum" id="1K2O"/>
+<dbReference type="PDBsum" id="1LWL"/>
+<dbReference type="PDBsum" id="1MPW"/>
+<dbReference type="PDBsum" id="1NOO"/>
+<dbReference type="PDBsum" id="1O76"/>
+<dbReference type="PDBsum" id="1P2Y"/>
+<dbReference type="PDBsum" id="1P7R"/>
+<dbReference type="PDBsum" id="1PHA"/>
+<dbReference type="PDBsum" id="1PHB"/>
+<dbReference type="PDBsum" id="1PHC"/>
+<dbReference type="PDBsum" id="1PHD"/>
+<dbReference type="PDBsum" id="1PHE"/>
+<dbReference type="PDBsum" id="1PHF"/>
+<dbReference type="PDBsum" id="1PHG"/>
+<dbReference type="PDBsum" id="1QMQ"/>
+<dbReference type="PDBsum" id="1RE9"/>
+<dbReference type="PDBsum" id="1RF9"/>
+<dbReference type="PDBsum" id="1T85"/>
+<dbReference type="PDBsum" id="1T86"/>
+<dbReference type="PDBsum" id="1T87"/>
+<dbReference type="PDBsum" id="1T88"/>
+<dbReference type="PDBsum" id="1UYU"/>
+<dbReference type="PDBsum" id="1YRC"/>
+<dbReference type="PDBsum" id="1YRD"/>
+<dbReference type="PDBsum" id="2A1M"/>
+<dbReference type="PDBsum" id="2A1N"/>
+<dbReference type="PDBsum" id="2A1O"/>
+<dbReference type="PDBsum" id="2CP4"/>
+<dbReference type="PDBsum" id="2CPP"/>
+<dbReference type="PDBsum" id="2FE6"/>
+<dbReference type="PDBsum" id="2FER"/>
+<dbReference type="PDBsum" id="2FEU"/>
+<dbReference type="PDBsum" id="2FRZ"/>
+<dbReference type="PDBsum" id="2GQX"/>
+<dbReference type="PDBsum" id="2GR6"/>
+<dbReference type="PDBsum" id="2H7Q"/>
+<dbReference type="PDBsum" id="2H7R"/>
+<dbReference type="PDBsum" id="2H7S"/>
+<dbReference type="PDBsum" id="2L8M"/>
+<dbReference type="PDBsum" id="2LQD"/>
+<dbReference type="PDBsum" id="2M56"/>
+<dbReference type="PDBsum" id="2QBL"/>
+<dbReference type="PDBsum" id="2QBM"/>
+<dbReference type="PDBsum" id="2QBN"/>
+<dbReference type="PDBsum" id="2QBO"/>
+<dbReference type="PDBsum" id="2Z97"/>
+<dbReference type="PDBsum" id="2ZAW"/>
+<dbReference type="PDBsum" id="2ZAX"/>
+<dbReference type="PDBsum" id="2ZUH"/>
+<dbReference type="PDBsum" id="2ZUI"/>
+<dbReference type="PDBsum" id="2ZUJ"/>
+<dbReference type="PDBsum" id="2ZWT"/>
+<dbReference type="PDBsum" id="2ZWU"/>
+<dbReference type="PDBsum" id="3CP4"/>
+<dbReference type="PDBsum" id="3CPP"/>
+<dbReference type="PDBsum" id="3FWF"/>
+<dbReference type="PDBsum" id="3FWG"/>
+<dbReference type="PDBsum" id="3FWI"/>
+<dbReference type="PDBsum" id="3FWJ"/>
+<dbReference type="PDBsum" id="3L61"/>
+<dbReference type="PDBsum" id="3L62"/>
+<dbReference type="PDBsum" id="3L63"/>
+<dbReference type="PDBsum" id="3OIA"/>
+<dbReference type="PDBsum" id="3OL5"/>
+<dbReference type="PDBsum" id="3P6M"/>
+<dbReference type="PDBsum" id="3P6N"/>
+<dbReference type="PDBsum" id="3P6O"/>
+<dbReference type="PDBsum" id="3P6P"/>
+<dbReference type="PDBsum" id="3P6Q"/>
+<dbReference type="PDBsum" id="3P6R"/>
+<dbReference type="PDBsum" id="3P6S"/>
+<dbReference type="PDBsum" id="3P6T"/>
+<dbReference type="PDBsum" id="3P6U"/>
+<dbReference type="PDBsum" id="3P6V"/>
+<dbReference type="PDBsum" id="3P6W"/>
+<dbReference type="PDBsum" id="3P6X"/>
+<dbReference type="PDBsum" id="3W9C"/>
+<dbReference type="PDBsum" id="3WRH"/>
+<dbReference type="PDBsum" id="3WRI"/>
+<dbReference type="PDBsum" id="3WRJ"/>
+<dbReference type="PDBsum" id="3WRK"/>
+<dbReference type="PDBsum" id="3WRL"/>
+<dbReference type="PDBsum" id="3WRM"/>
+<dbReference type="PDBsum" id="4CP4"/>
+<dbReference type="PDBsum" id="4CPP"/>
+<dbReference type="PDBsum" id="4EK1"/>
+<dbReference type="PDBsum" id="4G3R"/>
+<dbReference type="PDBsum" id="4JWS"/>
+<dbReference type="PDBsum" id="4JWU"/>
+<dbReference type="PDBsum" id="4JX1"/>
+<dbReference type="PDBsum" id="4KKY"/>
+<dbReference type="PDBsum" id="4L49"/>
+<dbReference type="PDBsum" id="4L4A"/>
+<dbReference type="PDBsum" id="4L4B"/>
+<dbReference type="PDBsum" id="4L4C"/>
+<dbReference type="PDBsum" id="4L4D"/>
+<dbReference type="PDBsum" id="4L4E"/>
+<dbReference type="PDBsum" id="4L4F"/>
+<dbReference type="PDBsum" id="4L4G"/>
+<dbReference type="PDBsum" id="5CP4"/>
+<dbReference type="PDBsum" id="5CPP"/>
+<dbReference type="PDBsum" id="5GXG"/>
+<dbReference type="PDBsum" id="5IK1"/>
+<dbReference type="PDBsum" id="5WK7"/>
+<dbReference type="PDBsum" id="5WK9"/>
+<dbReference type="PDBsum" id="6CP4"/>
+<dbReference type="PDBsum" id="6CPP"/>
+<dbReference type="PDBsum" id="6NBL"/>
+<dbReference type="PDBsum" id="6WE6"/>
+<dbReference type="PDBsum" id="6WFL"/>
+<dbReference type="PDBsum" id="7CPP"/>
+<dbReference type="PDBsum" id="8CPP"/>
+<dbReference type="BMRB" id="P00183"/>
+<dbReference type="SMR" id="P00183"/>
+<dbReference type="DIP" id="DIP-29809N"/>
+<dbReference type="IntAct" id="P00183">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="BindingDB" id="P00183"/>
+<dbReference type="ChEMBL" id="CHEMBL5594"/>
+<dbReference type="DrugBank" id="DB03836">
+<property type="generic name" value="1,3,5-trichlorobenzene"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02617">
+<property type="generic name" value="1-(N-Imidazolyl)-2-Hydroxy-2-(2,3-Dichlorophenyl)Octane"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02817">
+<property type="generic name" value="5-Exo-Hydroxycamphor"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03627">
+<property type="generic name" value="Adamantane"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04032">
+<property type="generic name" value="Adamantane-1-Carboxylic Acid-5-Dimethylamino-Naphthalene-1-Sulfonylamino-Butyl-Amide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03031">
+<property type="generic name" value="Adamantane-1-Carboxylic Acid-5-Dimethylamino-Naphthalene-1-Sulfonylamino-Octyl-Amide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02125">
+<property type="generic name" value="Adamantanone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04501">
+<property type="generic name" value="Camphane"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01744">
+<property type="generic name" value="Camphor"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01663">
+<property type="generic name" value="lambda-bis(2,2'-bipyridine)-(5-methyl-2-2'-bipyridine)-C9-adamantane ruthenium (II)"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01011">
+<property type="generic name" value="Metyrapone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01703">
+<property type="generic name" value="N-(2-ferrocenylethyl)maleimide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01826">
+<property type="generic name" value="N-Butyl Isocyanide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03540">
+<property type="generic name" value="Norcamphor"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02851">
+<property type="generic name" value="Thiocamphor"/>
+</dbReference>
+<dbReference type="KEGG" id="ag:AAA25760"/>
+<dbReference type="KO" id="K21569"/>
+<dbReference type="BioCyc" id="MetaCyc:MONOMER-3021"/>
+<dbReference type="BRENDA" id="1.14.15.1">
+<property type="organism ID" value="5092"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00719"/>
+<dbReference type="EvolutionaryTrace" id="P00183"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018683">
+<property type="term" value="F:camphor 5-monooxygenase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020037">
+<property type="term" value="F:heme binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005506">
+<property type="term" value="F:iron ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019383">
+<property type="term" value="P:(+)-camphor catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.630.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001128">
+<property type="entry name" value="Cyt_P450"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002397">
+<property type="entry name" value="Cyt_P450_B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017972">
+<property type="entry name" value="Cyt_P450_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036396">
+<property type="entry name" value="Cyt_P450_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00067">
+<property type="entry name" value="p450"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00359">
+<property type="entry name" value="BP450"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00385">
+<property type="entry name" value="P450"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48264">
+<property type="entry name" value="SSF48264"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00086">
+<property type="entry name" value="CYTOCHROME_P450"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0349">Heme</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0503">Monooxygenase</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<feature type="initiator methionine" description="Removed" evidence="9">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Camphor 5-monooxygenase" id="PRO_0000052204">
+<location>
+<begin position="2"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3" evidence="10">
+<location>
+<begin position="56"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3" evidence="10">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="277"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3" evidence="10">
+<original>H</original>
+<variation>S</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AA sequence." ref="3" evidence="10">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="408"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="6"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="21"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="29"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="39"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="44"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="48"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="53"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="59"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="63"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="69"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="79"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="82"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="88"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="91"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="100"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="106"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="109"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="122"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="147"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="151"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="155"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="158"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="172"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="175"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="190"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="194"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="220"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="230"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="236"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="253"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="269"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="279"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="282"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="298"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="306"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="311"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="318"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="323"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="330"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="333"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="354"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="361"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="395"/>
+<end position="397"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="399"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="404"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="409"/>
+<end position="411"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1GEK"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1O76"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2H7R"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2H7S"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3CP4"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4KKY"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4L4E"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000250"/>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7130171"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="415" mass="46669" checksum="E84641B4A65DD2D3" modified="2007-01-23" version="2">MTTETIQSNANLAPLPPHVPEHLVFDFDMYNPSNLSAGVQEAWAVLQESNVPDLVWTRCNGGHWIATRGQLIREAYEDYRHFSSECPFIPREAGEAYDFIPTSMDPPEQRQFRALANQVVGMPVVDKLENRIQELACSLIESLRPQGQCNFTEDYAEPFPIRIFMLLAGLPEEDIPHLKYLTDQMTRPDGSMTFAEAKEALYDYLIPIIEQRRQKPGTDAISIVANGQVNGRPITSDEAKRMCGLLLVGGLDTVVNFLSFSMEFLAKSPEHRQELIERPERIPAACEELLRRFSLVADGRILTSDYEFHGVQLKKGDQILLPQMLSGLDERENACPMHVDFSRQKVSHTTFGHGSHLCLGQHLARREIIVTLKEWLTRIPDFSIAPGAQIQHKSGIVSGVQALPLVWDPATTKAV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
