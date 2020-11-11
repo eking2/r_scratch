@@ -1,0 +1,10 @@
+enzyme_1,enzyme_2,enzyme_3,enzyme_4,enzyme_1_conc,enzyme_2_conc,enzyme_3_conc,enzyme_4_conc,cofactors,code
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,5,10,10,"NAD, NMN",a
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,5,10,10,no,b
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,5,10,30,"NAD, NMN",c
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,5,10,60,"NAD, NMN",d
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,5,20,60,"NAD, NMN",e
+PLM_78_LbNOX ,DA63_BsBdhA,Lz80_Gludh80,Ed488_SerBdh2_triple,10,10,10,10,"NAD, NMN",f
+PLM_78_LbNOX ,DA63_BsBdhA,pW67_Gludh WT,DA115_SerBdh2_WT,10,5,10,10,NAD,g
+no,no,no,no,0,0,0,0,"NAD, NMN",h
+no,no,no,no,0,0,0,0,no,i
